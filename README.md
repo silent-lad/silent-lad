@@ -1,1 +1,1 @@
-<img src="./silentlad.png" width="100%">
+<img src="./readme_assets/silentlad.png" width="100%">
